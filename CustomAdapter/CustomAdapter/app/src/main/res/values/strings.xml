@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomAdapter</string>
+    <string name="allitems">All Items</string>
+    <string name="movies">Movies</string>
+    <string name="tvshows">TV Shows</string>
+    <string name="imgDesc">imgDesc</string>
+</resources>
