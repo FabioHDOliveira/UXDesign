@@ -1,0 +1,48 @@
+#s-80c8ad96-1ff3-46c9-825c-005565bbbc40 #s-Image_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-80c8ad96-1ff3-46c9-825c-005565bbbc40 #s-Button_1 {
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #000000;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #000000;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #000000;
+  border-radius: 15px 15px 15px 15px;
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  height: 30px;
+  width: 234px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-80c8ad96-1ff3-46c9-825c-005565bbbc40 #s-Paragraph_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-80c8ad96-1ff3-46c9-825c-005565bbbc40 #s-Text_3 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-80c8ad96-1ff3-46c9-825c-005565bbbc40 #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-80c8ad96-1ff3-46c9-825c-005565bbbc40 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

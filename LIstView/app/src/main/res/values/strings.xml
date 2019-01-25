@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoWeek9</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="pic">Pictures</string>
+    <string-array name="spinner">
+        <item>Test1</item>
+        <item>Test2</item>
+        <item>Test3</item>
+    </string-array>
+</resources>

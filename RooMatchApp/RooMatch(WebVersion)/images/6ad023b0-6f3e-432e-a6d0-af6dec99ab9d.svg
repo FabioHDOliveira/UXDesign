@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="33px" viewBox="0 0 32 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Lock-Screen-Notifications" transform="translate(-32.000000, -547.000000)">
+            <g id="Group-2" transform="translate(32.000000, 547.000000)">
+                <path d="M0,3.99700023 C0,1.78951796 1.78902751,0 4.0042577,0 L27.9957423,0 C30.2072328,0 32,1.79765853 32,3.99700023 L32,30.9977147 C32,32.1035463 31.1107383,33 29.9982567,33 L2.00174332,33 C0.89621101,33 0,32.1002151 0,30.9977147 L0,3.99700023 Z" id="Rectangle-20" fill="#2274E1"></path>
+                <circle id="Oval-3-Copy-2" fill="#FFFFFF" cx="8.5" cy="3.5" r="1.5"></circle>
+                <circle id="Oval-3-Copy-3" fill="#FFFFFF" cx="22.5" cy="3.5" r="1.5"></circle>
+                <text id="31" font-family=".SFNSDisplay, .SF NS Display" font-size="20" font-weight="normal" letter-spacing="-0.699999988" fill="#FFFFFF">
+                    <tspan x="6" y="26">3</tspan>
+                    <tspan x="17.4972656" y="26">1</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
